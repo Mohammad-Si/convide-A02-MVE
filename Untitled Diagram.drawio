@@ -1,62 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
-  <diagram name="Page-1" id="exacSysGWLf1CVPiiuh2">
-    <mxGraphModel dx="1107" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="Page-1" id="T-A2hYyYxmfuVm_ntB5j">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dDaNMP7zR24mxt8VdDjp-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="450.5" y="280" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dDaNMP7zR24mxt8VdDjp-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dDaNMP7zR24mxt8VdDjp-1" target="dDaNMP7zR24mxt8VdDjp-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dDaNMP7zR24mxt8VdDjp-3" value="idle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="370" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dDaNMP7zR24mxt8VdDjp-6" value="Discharging (normal rate)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="520" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dDaNMP7zR24mxt8VdDjp-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dDaNMP7zR24mxt8VdDjp-3" target="dDaNMP7zR24mxt8VdDjp-6">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="340" y="420" as="sourcePoint" />
-            <mxPoint x="500" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dDaNMP7zR24mxt8VdDjp-8" value="start to be discharged" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dDaNMP7zR24mxt8VdDjp-7">
-          <mxGeometry x="-0.1158" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dDaNMP7zR24mxt8VdDjp-13" value="Discharging (low rate)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="729.94" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dDaNMP7zR24mxt8VdDjp-14" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dDaNMP7zR24mxt8VdDjp-6" target="dDaNMP7zR24mxt8VdDjp-13">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="350" y="520" as="sourcePoint" />
-            <mxPoint x="510" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dDaNMP7zR24mxt8VdDjp-15" value="[Temperature &amp;gt; Threshold]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dDaNMP7zR24mxt8VdDjp-14">
-          <mxGeometry x="-0.0743" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dDaNMP7zR24mxt8VdDjp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;endSize=12;" edge="1" parent="1" source="dDaNMP7zR24mxt8VdDjp-6" target="dDaNMP7zR24mxt8VdDjp-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="600" y="550" />
-              <mxPoint x="600" y="610" />
-              <mxPoint x="523" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dDaNMP7zR24mxt8VdDjp-17" value="[Temperature &amp;lt; Threshold]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dDaNMP7zR24mxt8VdDjp-16">
-          <mxGeometry x="-0.3883" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
