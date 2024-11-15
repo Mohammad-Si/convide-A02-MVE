@@ -51,10 +51,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ouk2HGRhII2JnXtZntxR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.001;exitY=0.167;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;exitPerimeter=0;endSize=10;endArrow=open;endFill=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="Ouk2HGRhII2JnXtZntxR-19" target="Ouk2HGRhII2JnXtZntxR-11" edge="1">
+        <mxCell id="Ouk2HGRhII2JnXtZntxR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.001;exitY=0.167;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;exitPerimeter=0;endSize=10;endArrow=open;endFill=0;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" source="Ouk2HGRhII2JnXtZntxR-19" target="Ouk2HGRhII2JnXtZntxR-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ouk2HGRhII2JnXtZntxR-47" value="stopDischarging()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FFD966;" parent="Ouk2HGRhII2JnXtZntxR-46" vertex="1" connectable="0">
+        <mxCell id="Ouk2HGRhII2JnXtZntxR-47" value="switchOff()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="Ouk2HGRhII2JnXtZntxR-46" vertex="1" connectable="0">
           <mxGeometry x="-0.2018" y="-7" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -94,6 +94,19 @@
         <mxCell id="Ouk2HGRhII2JnXtZntxR-43" value="unplug()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" parent="Ouk2HGRhII2JnXtZntxR-42" vertex="1" connectable="0">
           <mxGeometry x="-0.0264" y="1" relative="1" as="geometry">
             <mxPoint x="28" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l5Uin1aFvd7dUy-ONcKd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;endArrow=open;endFill=0;endSize=10;" edge="1" parent="1" source="Ouk2HGRhII2JnXtZntxR-29" target="Ouk2HGRhII2JnXtZntxR-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="437" />
+              <mxPoint x="750" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l5Uin1aFvd7dUy-ONcKd-22" value="[SoC &amp;gt; o]&lt;br&gt;accelerating()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l5Uin1aFvd7dUy-ONcKd-21">
+          <mxGeometry x="0.18" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ouk2HGRhII2JnXtZntxR-29" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Charging&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;[SoC &amp;gt; 0] checkSoC()&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
