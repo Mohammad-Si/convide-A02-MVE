@@ -433,13 +433,13 @@
         <mxCell id="8q97kudcN3n-cvF4AVTS-264" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;endArrow=open;endFill=0;" edge="1" parent="1" source="8q97kudcN3n-cvF4AVTS-258" target="8q97kudcN3n-cvF4AVTS-261">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="960" />
+              <mxPoint x="150" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8q97kudcN3n-cvF4AVTS-265" value="&lt;span style=&quot;&quot;&gt;drawPower [pollSoC &amp;gt; 0]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="8q97kudcN3n-cvF4AVTS-264">
           <mxGeometry x="-0.2886" y="16" relative="1" as="geometry">
-            <mxPoint x="7" y="31" as="offset" />
+            <mxPoint x="26" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8q97kudcN3n-cvF4AVTS-258" value="Idle" style="shape=rect;rounded=1;html=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
@@ -471,13 +471,13 @@
         <mxCell id="8q97kudcN3n-cvF4AVTS-272" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;endArrow=open;endFill=0;" edge="1" parent="1" source="8q97kudcN3n-cvF4AVTS-261" target="8q97kudcN3n-cvF4AVTS-258">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="800" />
+              <mxPoint x="350" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8q97kudcN3n-cvF4AVTS-274" value="&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap-mode: wrap;&quot;&gt;stopAddingPower,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;stopDrawingPower&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="8q97kudcN3n-cvF4AVTS-272">
+        <mxCell id="8q97kudcN3n-cvF4AVTS-274" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;stopAddingPower,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;stopDrawingPower,&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap-mode: wrap;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;checkSoC [maxSuppliedPower = pollSoC]&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="8q97kudcN3n-cvF4AVTS-272">
           <mxGeometry x="-0.0983" y="8" relative="1" as="geometry">
-            <mxPoint x="-22" y="44" as="offset" />
+            <mxPoint x="-56" y="57" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8q97kudcN3n-cvF4AVTS-261" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;BPHasPower&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;safetyLevel&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Enum&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;maxSuppliedPower&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Float&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;rawMaterial&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;String&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;pollSoC: Float&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;drawPower [pollSoC &amp;gt; 0]/&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;addPower/&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;checkSoC/&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
