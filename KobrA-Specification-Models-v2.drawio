@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="dAf6fVYAmUhkkcVzqibn">
-    <mxGraphModel dx="994" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1129" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,35 +13,405 @@
         <mxCell id="8q97kudcN3n-cvF4AVTS-23" value="" style="dashed=0;shape=line;strokeWidth=2;noLabel=1;strokeColor=#0C8CF2;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="40" y="65" width="346" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="8q97kudcN3n-cvF4AVTS-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;&amp;nbsp;HV-AX48&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;:&lt;/b&gt;Battery&lt;/span&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;ID&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FAT42DE3&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;protocol&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;BMS&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;maxSuppliedPower&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;48&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;safetyLevel&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;ASIL_C&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;rawMaterial&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Lithium&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="600" y="300" width="146" height="120" as="geometry" />
+        <mxCell id="8q97kudcN3n-cvF4AVTS-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&amp;lt;&amp;lt;Subject&amp;gt;&amp;gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;BP-XLi-Sports&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;:&lt;/b&gt;BatteryPack&lt;/span&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ID&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;maker: String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;safetyLevel&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;ASIL_C&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;maxSuppliedPower&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;96&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;rawMaterial&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Lithium&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;hr style=&quot;border-style: solid;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;drawPower&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;addPower&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;stopDrawingPower&lt;/span&gt;()&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;stopAddingPower()&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;checkSoC()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="180" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="8q97kudcN3n-cvF4AVTS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=diamondThin;startFill=1;startSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8q97kudcN3n-cvF4AVTS-27" target="8q97kudcN3n-cvF4AVTS-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8q97kudcN3n-cvF4AVTS-26" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8q97kudcN3n-cvF4AVTS-25">
-          <mxGeometry x="0.5839" relative="1" as="geometry">
-            <mxPoint x="11" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8q97kudcN3n-cvF4AVTS-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&amp;lt;&amp;lt;Subject&amp;gt;&amp;gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;BP-XLi-Sports&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;:&lt;/b&gt;BatteryPack&lt;/span&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;ID&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;OP&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;E0184RR&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;protocol&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;BMS&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;safetyLevel&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;ASIL_C&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;maxSuppliedPower&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;96&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;rawMaterial&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Lithium&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;hr style=&quot;border-style: solid;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;drawPower&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;addPower&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;stopDrawingPower&lt;/span&gt;()&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;stopAddingPower()&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;checkSoC()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="330" y="250" width="180" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="8q97kudcN3n-cvF4AVTS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;endSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8q97kudcN3n-cvF4AVTS-30" target="8q97kudcN3n-cvF4AVTS-27">
+        <mxCell id="8q97kudcN3n-cvF4AVTS-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;endSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8q97kudcN3n-cvF4AVTS-30" target="8q97kudcN3n-cvF4AVTS-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8q97kudcN3n-cvF4AVTS-29" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8q97kudcN3n-cvF4AVTS-28">
-          <mxGeometry x="-0.6689" y="-1" relative="1" as="geometry">
-            <mxPoint x="-4" y="-11" as="offset" />
+        <mxCell id="8q97kudcN3n-cvF4AVTS-218" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="8q97kudcN3n-cvF4AVTS-28">
+          <mxGeometry x="0.7313" y="-1" relative="1" as="geometry">
+            <mxPoint x="4" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8q97kudcN3n-cvF4AVTS-30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;&amp;nbsp;HV-AX48&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;:&lt;/b&gt;Battery&lt;/span&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ID&lt;/span&gt;&lt;sup style=&quot;background-color: initial;&quot;&gt;0&lt;/sup&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;MAN0U3R&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;protocol&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;BMS&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;safetyLevel&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;ASIL_C&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;rawMaterial&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Lithium&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;maxSuppliedPower&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;48&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="90" y="300" width="146" height="120" as="geometry" />
+        <mxCell id="8q97kudcN3n-cvF4AVTS-219" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="8q97kudcN3n-cvF4AVTS-28">
+          <mxGeometry x="-0.575" relative="1" as="geometry">
+            <mxPoint x="-8" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;/p&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: 700; background-color: initial;&quot;&gt;&amp;nbsp;HV-AX48&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;:&lt;/b&gt;Battery&lt;/span&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ID&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;maker: String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;protocol:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;safetyLevel&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Enum&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;rawMaterial&lt;span style=&quot;background-color: initial;&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;String&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;hr style=&quot;border-style: solid;&quot; size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;drawPower&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;addPower&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;stopDrawingPower&lt;/span&gt;()&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;stopAddingPower()&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;checkSoC()&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;getSoC()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;maxSuppliedPower: Float&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="146" height="240" as="geometry" />
         </mxCell>
         <mxCell id="8q97kudcN3n-cvF4AVTS-34" value="&lt;b&gt;Structural model&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;arcSize=16;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-36" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#475E75;fillColor=#F5F6F7;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="760" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-37" value="&lt;b&gt;Behavioral model&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1.5;arcSize=16;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="610" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-171" value="" style="group;glass=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="1000" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-38" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-171">
+          <mxGeometry x="150" y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-39" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-171">
+          <mxGeometry x="80" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-40" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-171">
+          <mxGeometry y="40" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-54" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-39" target="8q97kudcN3n-cvF4AVTS-39">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="145" y="120" as="sourcePoint" />
+            <mxPoint x="195" y="20" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-66" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.598;exitY=-0.024;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=open;startFill=0;endFill=0;startSize=2;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-38" target="8q97kudcN3n-cvF4AVTS-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="50" as="sourcePoint" />
+            <mxPoint x="153.0999999999999" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-67" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=open;startFill=0;startSize=2;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-40" target="8q97kudcN3n-cvF4AVTS-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="96" y="40" as="sourcePoint" />
+            <mxPoint x="83" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-70" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-171">
+          <mxGeometry x="85" y="42" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-71" value="" style="endArrow=block;html=1;rounded=0;exitX=0.475;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=15;entryDy=0;entryPerimeter=0;endSize=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-39" target="8q97kudcN3n-cvF4AVTS-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="130" as="sourcePoint" />
+            <mxPoint x="170" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-72" value="" style="endArrow=block;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=35;entryDy=5;entryPerimeter=0;endSize=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-38" target="8q97kudcN3n-cvF4AVTS-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="30" as="sourcePoint" />
+            <mxPoint x="115" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-73" value="" style="endArrow=block;html=1;rounded=0;exitX=0.93;exitY=0.361;exitDx=0;exitDy=0;entryX=-0.052;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;exitPerimeter=0;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-40" target="8q97kudcN3n-cvF4AVTS-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="57" as="sourcePoint" />
+            <mxPoint x="135" y="57" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-74" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-171">
+          <mxGeometry x="140" y="90" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-75" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-171">
+          <mxGeometry x="40" y="130" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-76" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-171">
+          <mxGeometry y="90" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-77" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-75" target="8q97kudcN3n-cvF4AVTS-75">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="135" y="170" as="sourcePoint" />
+            <mxPoint x="185" y="70" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-78" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.421;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=open;startFill=0;startSize=2;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-74" target="8q97kudcN3n-cvF4AVTS-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="100" as="sourcePoint" />
+            <mxPoint x="143.0999999999999" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-79" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.405;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=open;startFill=0;startSize=2;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-76" target="8q97kudcN3n-cvF4AVTS-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="86" y="90" as="sourcePoint" />
+            <mxPoint x="73" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-80" value="" style="endArrow=block;html=1;rounded=0;exitX=0.605;exitY=-0.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.326;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-75" target="8q97kudcN3n-cvF4AVTS-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="180" as="sourcePoint" />
+            <mxPoint x="95" y="92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-81" value="" style="endArrow=block;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endSize=2;entryX=1.006;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-74" target="8q97kudcN3n-cvF4AVTS-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="80" as="sourcePoint" />
+            <mxPoint x="130" y="97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-82" value="" style="endArrow=block;html=1;rounded=0;exitX=0.93;exitY=0.361;exitDx=0;exitDy=0;entryX=0.047;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-76" target="8q97kudcN3n-cvF4AVTS-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="107" as="sourcePoint" />
+            <mxPoint x="78" y="97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-83" value="" style="endArrow=open;startArrow=open;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endSize=2;startSize=2;startFill=0;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-76" target="8q97kudcN3n-cvF4AVTS-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="100" as="sourcePoint" />
+            <mxPoint x="70" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-84" value="" style="endArrow=open;startArrow=open;html=1;rounded=0;entryX=0.409;entryY=0.996;entryDx=0;entryDy=0;exitX=0.572;exitY=0.009;exitDx=0;exitDy=0;endSize=2;startSize=2;startFill=0;endFill=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-171" source="8q97kudcN3n-cvF4AVTS-74" target="8q97kudcN3n-cvF4AVTS-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="179.81" y="90" as="sourcePoint" />
+            <mxPoint x="179.81" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-172" value="" style="group;glass=0;shadow=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="620" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-173" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-172">
+          <mxGeometry x="92.85714285714286" y="24" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-174" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;fillColor=#000000;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-172">
+          <mxGeometry x="49.523809523809526" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-175" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-172">
+          <mxGeometry y="24" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-176" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-174" target="8q97kudcN3n-cvF4AVTS-174">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="89.76190476190476" y="72" as="sourcePoint" />
+            <mxPoint x="120.71428571428572" y="12" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-177" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.598;exitY=-0.024;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=open;startFill=0;endFill=0;startSize=2;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-173" target="8q97kudcN3n-cvF4AVTS-174">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="117.61904761904762" y="30" as="sourcePoint" />
+            <mxPoint x="94.77619047619042" y="12" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="123.80952380952381" y="6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-178" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=open;startFill=0;startSize=2;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-175" target="8q97kudcN3n-cvF4AVTS-174">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59.42857142857143" y="24" as="sourcePoint" />
+            <mxPoint x="51.38095238095238" y="12" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30.952380952380953" y="6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-179" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;shadow=1;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-172">
+          <mxGeometry x="52.61904761904762" y="25.2" width="24.761904761904763" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-180" value="" style="endArrow=block;html=1;rounded=0;exitX=0.475;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.332;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-174" target="8q97kudcN3n-cvF4AVTS-179">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="74.28571428571429" y="78" as="sourcePoint" />
+            <mxPoint x="105.23809523809524" y="48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-181" value="" style="endArrow=block;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.753;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-173" target="8q97kudcN3n-cvF4AVTS-179">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="71.19047619047619" y="18" as="sourcePoint" />
+            <mxPoint x="71.19047619047619" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-182" value="" style="endArrow=block;html=1;rounded=0;exitX=0.93;exitY=0.361;exitDx=0;exitDy=0;entryX=-0.052;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;exitPerimeter=0;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-175" target="8q97kudcN3n-cvF4AVTS-179">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104.61904761904762" y="34.199999999999996" as="sourcePoint" />
+            <mxPoint x="83.57142857142857" y="34.199999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-183" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=1;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-172">
+          <mxGeometry x="86.66666666666667" y="54" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-184" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=1;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-172">
+          <mxGeometry x="24.761904761904763" y="78" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-185" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=1;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-172">
+          <mxGeometry y="54" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-186" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-184" target="8q97kudcN3n-cvF4AVTS-184">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="83.57142857142857" y="102" as="sourcePoint" />
+            <mxPoint x="114.52380952380953" y="42" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-187" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.421;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=open;startFill=0;startSize=2;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-183" target="8q97kudcN3n-cvF4AVTS-184">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="111.42857142857143" y="60" as="sourcePoint" />
+            <mxPoint x="88.58571428571423" y="42" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="92.85714285714286" y="84" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-188" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.405;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=open;startFill=0;startSize=2;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-185" target="8q97kudcN3n-cvF4AVTS-184">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="53.23809523809524" y="54" as="sourcePoint" />
+            <mxPoint x="45.19047619047619" y="42" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="84" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-189" value="" style="endArrow=block;html=1;rounded=0;exitX=0.605;exitY=-0.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.326;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-184" target="8q97kudcN3n-cvF4AVTS-179">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="68.0952380952381" y="108" as="sourcePoint" />
+            <mxPoint x="58.80952380952381" y="55.199999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-190" value="" style="endArrow=block;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endSize=2;entryX=1.006;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-183" target="8q97kudcN3n-cvF4AVTS-179">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="48" as="sourcePoint" />
+            <mxPoint x="80.47619047619048" y="58.199999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-191" value="" style="endArrow=block;html=1;rounded=0;exitX=0.93;exitY=0.361;exitDx=0;exitDy=0;entryX=0.047;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-185" target="8q97kudcN3n-cvF4AVTS-179">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="98.42857142857143" y="64.2" as="sourcePoint" />
+            <mxPoint x="48.285714285714285" y="58.199999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-192" value="" style="endArrow=open;startArrow=open;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endSize=2;startSize=2;startFill=0;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-185" target="8q97kudcN3n-cvF4AVTS-175">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12.380952380952381" y="60" as="sourcePoint" />
+            <mxPoint x="43.333333333333336" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-193" value="" style="endArrow=open;startArrow=open;html=1;rounded=0;entryX=0.409;entryY=0.996;entryDx=0;entryDy=0;exitX=0.572;exitY=0.009;exitDx=0;exitDy=0;endSize=2;startSize=2;startFill=0;endFill=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-172" source="8q97kudcN3n-cvF4AVTS-183" target="8q97kudcN3n-cvF4AVTS-173">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="111.31095238095239" y="54" as="sourcePoint" />
+            <mxPoint x="111.31095238095239" y="36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-220" value="" style="group;glass=0;shadow=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="660" y="180" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-221" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#000000;shadow=0;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-220">
+          <mxGeometry x="92.85714285714286" y="24" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-222" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-220">
+          <mxGeometry x="49.523809523809526" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-223" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=0;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-220">
+          <mxGeometry y="24" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-224" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-222" target="8q97kudcN3n-cvF4AVTS-222">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="89.76190476190476" y="72" as="sourcePoint" />
+            <mxPoint x="120.71428571428572" y="12" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-225" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.598;exitY=-0.024;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=open;startFill=0;endFill=0;startSize=2;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-221" target="8q97kudcN3n-cvF4AVTS-222">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="117.61904761904762" y="30" as="sourcePoint" />
+            <mxPoint x="94.77619047619042" y="12" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="123.80952380952381" y="6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-226" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=open;startFill=0;startSize=2;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-223" target="8q97kudcN3n-cvF4AVTS-222">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="59.42857142857143" y="24" as="sourcePoint" />
+            <mxPoint x="51.38095238095238" y="12" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30.952380952380953" y="6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-227" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;shadow=1;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-220">
+          <mxGeometry x="52.61904761904762" y="25.2" width="24.761904761904763" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-228" value="" style="endArrow=block;html=1;rounded=0;exitX=0.475;exitY=0.969;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.332;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-222" target="8q97kudcN3n-cvF4AVTS-227">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="74.28571428571429" y="78" as="sourcePoint" />
+            <mxPoint x="105.23809523809524" y="48" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-229" value="" style="endArrow=block;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.753;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-221" target="8q97kudcN3n-cvF4AVTS-227">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="71.19047619047619" y="18" as="sourcePoint" />
+            <mxPoint x="71.19047619047619" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-230" value="" style="endArrow=block;html=1;rounded=0;exitX=0.93;exitY=0.361;exitDx=0;exitDy=0;entryX=-0.052;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;exitPerimeter=0;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-223" target="8q97kudcN3n-cvF4AVTS-227">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104.61904761904762" y="34.199999999999996" as="sourcePoint" />
+            <mxPoint x="83.57142857142857" y="34.199999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-231" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=1;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-220">
+          <mxGeometry x="86.66666666666667" y="54" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-232" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=1;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-220">
+          <mxGeometry x="24.761904761904763" y="78" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-233" value="" style="shape=parallelogram;html=1;strokeWidth=1;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;shadow=1;" vertex="1" parent="8q97kudcN3n-cvF4AVTS-220">
+          <mxGeometry y="54" width="37.142857142857146" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-234" value="" style="edgeStyle=isometricEdgeStyle;endArrow=none;html=1;elbow=vertical;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-232" target="8q97kudcN3n-cvF4AVTS-232">
+          <mxGeometry width="50" height="100" relative="1" as="geometry">
+            <mxPoint x="83.57142857142857" y="102" as="sourcePoint" />
+            <mxPoint x="114.52380952380953" y="42" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-235" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.421;exitY=1.024;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=open;startFill=0;startSize=2;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-231" target="8q97kudcN3n-cvF4AVTS-232">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="111.42857142857143" y="60" as="sourcePoint" />
+            <mxPoint x="88.58571428571423" y="42" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="92.85714285714286" y="84" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-236" value="" style="endArrow=open;html=1;rounded=0;endSize=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.405;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startArrow=open;startFill=0;startSize=2;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-233" target="8q97kudcN3n-cvF4AVTS-232">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="53.23809523809524" y="54" as="sourcePoint" />
+            <mxPoint x="45.19047619047619" y="42" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="84" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-237" value="" style="endArrow=block;html=1;rounded=0;exitX=0.605;exitY=-0.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.326;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-232" target="8q97kudcN3n-cvF4AVTS-227">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="68.0952380952381" y="108" as="sourcePoint" />
+            <mxPoint x="58.80952380952381" y="55.199999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-238" value="" style="endArrow=block;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endSize=2;entryX=1.006;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-231" target="8q97kudcN3n-cvF4AVTS-227">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="48" as="sourcePoint" />
+            <mxPoint x="80.47619047619048" y="58.199999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-239" value="" style="endArrow=block;html=1;rounded=0;exitX=0.93;exitY=0.361;exitDx=0;exitDy=0;entryX=0.047;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;endSize=2;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endFill=1;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-233" target="8q97kudcN3n-cvF4AVTS-227">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="98.42857142857143" y="64.2" as="sourcePoint" />
+            <mxPoint x="48.285714285714285" y="58.199999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-240" value="" style="endArrow=open;startArrow=open;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endSize=2;startSize=2;startFill=0;endFill=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-233" target="8q97kudcN3n-cvF4AVTS-223">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="12.380952380952381" y="60" as="sourcePoint" />
+            <mxPoint x="43.333333333333336" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-241" value="" style="endArrow=open;startArrow=open;html=1;rounded=0;entryX=0.409;entryY=0.996;entryDx=0;entryDy=0;exitX=0.572;exitY=0.009;exitDx=0;exitDy=0;endSize=2;startSize=2;startFill=0;endFill=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="8q97kudcN3n-cvF4AVTS-220" source="8q97kudcN3n-cvF4AVTS-231" target="8q97kudcN3n-cvF4AVTS-221">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="111.31095238095239" y="54" as="sourcePoint" />
+            <mxPoint x="111.31095238095239" y="36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-242" value="&lt;font size=&quot;1&quot; color=&quot;#475f75&quot;&gt;&lt;b style=&quot;&quot;&gt;Class Diagram&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475f75;fillColor=default;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="193" y="177" width="77" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="8q97kudcN3n-cvF4AVTS-243" value="&lt;font size=&quot;1&quot; color=&quot;#475f75&quot;&gt;&lt;b style=&quot;&quot;&gt;State Diagram&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475f75;fillColor=default;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="193" y="617" width="77" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
