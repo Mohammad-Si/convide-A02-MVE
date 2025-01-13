@@ -904,7 +904,7 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t6atKej5fnVRMdNGpLLc-233" value="SoC&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#DFDFDF;overflow=hidden;fillColor=#FFFFFF;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontSize=12;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontColor=#333333;gradientColor=none;" vertex="1" parent="t6atKej5fnVRMdNGpLLc-231">
+        <mxCell id="t6atKej5fnVRMdNGpLLc-233" value="SoC, MaxPower&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#DFDFDF;overflow=hidden;fillColor=#FFFFFF;top=1;left=1;bottom=1;right=1;pointerEvents=1;fontSize=12;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;fontFamily=Helvetica;fontColor=#333333;gradientColor=none;" vertex="1" parent="t6atKej5fnVRMdNGpLLc-231">
           <mxGeometry x="90" width="590" height="40" as="geometry">
             <mxRectangle width="590" height="40" as="alternateBounds" />
           </mxGeometry>
