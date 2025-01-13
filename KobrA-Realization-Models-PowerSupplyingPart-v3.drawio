@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Page-1" id="htw7n_-E01eUsqG7UNHX">
-    <mxGraphModel dx="691" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,8 +409,41 @@
             <mxPoint x="309.9999999999999" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="elsuv7XGZq4n1BTtMGS8-176" value="1.getSoC()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="800" width="60" height="30" as="geometry" />
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-176" value="1: getSoC()" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="800" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-177" value="2: [B1.SoC = B1.MaxCharge] stopCharging" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="750" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-178" value="6: getSoC()" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="800" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-179" value="7: [B1.SoC = 0] stopSupplying" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="750" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-180" value="checkSoC" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="840" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-181" value="3: [B1.SoC = B1.MaxCharge] getSoC" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="920" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-182" value="6: [B1.SoC = 0] getSoC" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="970" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-183" value="7: [B1.SoC = 0 and B2.SoC &amp;gt; 0] startSupplying" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1020" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-184" value="9: [B1.SoC = 0] stopSupplying" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1070" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-186" value="4:&amp;nbsp;&lt;span style=&quot;text-align: right;&quot;&gt;[B1.SoC = B1.MaxCharge and B2.SoC &amp;gt; B2.&lt;/span&gt;&lt;span style=&quot;text-align: right;&quot;&gt;MaxCharge&lt;/span&gt;&lt;span style=&quot;text-align: right;&quot;&gt;] startSupplying()&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="920" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-187" value="6: [B2.SoC = B2.MaxCharge] stopChargin()" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="970" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="elsuv7XGZq4n1BTtMGS8-188" value="8: getSoC()" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1020" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
