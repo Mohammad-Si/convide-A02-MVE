@@ -863,7 +863,7 @@
             <mxPoint x="138.18181818181824" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t6atKej5fnVRMdNGpLLc-65" value="&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap-mode: wrap;&quot;&gt;startSupplying&amp;nbsp;&lt;/span&gt;[pollSoC &amp;gt; 0]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="t6atKej5fnVRMdNGpLLc-64" vertex="1" connectable="0">
+        <mxCell id="t6atKej5fnVRMdNGpLLc-65" value="&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap-mode: wrap;&quot;&gt;startSupplying&amp;nbsp;&lt;/span&gt;[SoC &amp;gt; 0]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="t6atKej5fnVRMdNGpLLc-64" vertex="1" connectable="0">
           <mxGeometry x="-0.204" y="-25" relative="1" as="geometry">
             <mxPoint x="3" y="-29" as="offset" />
           </mxGeometry>
