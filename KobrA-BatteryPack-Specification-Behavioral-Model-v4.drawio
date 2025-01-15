@@ -117,7 +117,7 @@
         <mxCell id="_SFTHddvR5x8rRERTsNR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.192;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="_SFTHddvR5x8rRERTsNR-15" target="_SFTHddvR5x8rRERTsNR-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_SFTHddvR5x8rRERTsNR-32" value="startCharging [B1.SoC = B1.MaxCharge and B2.SoC &amp;lt; B2.SoC.MaxCharge]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="_SFTHddvR5x8rRERTsNR-31">
+        <mxCell id="_SFTHddvR5x8rRERTsNR-32" value="startCharging [B1.SoC = B1.MaxCharge and B2.SoC &amp;lt; B2.MaxCharge]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="_SFTHddvR5x8rRERTsNR-31">
           <mxGeometry x="-0.0212" relative="1" as="geometry">
             <mxPoint x="31" y="-9" as="offset" />
           </mxGeometry>
