@@ -109,7 +109,7 @@
         <mxCell id="_SFTHddvR5x8rRERTsNR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.297;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="_SFTHddvR5x8rRERTsNR-14" target="_SFTHddvR5x8rRERTsNR-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_SFTHddvR5x8rRERTsNR-30" value="startCharging [B1.SoC &amp;lt; B1.MaxCharge]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="_SFTHddvR5x8rRERTsNR-29">
+        <mxCell id="_SFTHddvR5x8rRERTsNR-30" value="startCharging [B1.SoC &amp;lt; B2.MaxCharge]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="_SFTHddvR5x8rRERTsNR-29">
           <mxGeometry x="-0.255" y="1" relative="1" as="geometry">
             <mxPoint y="-9" as="offset" />
           </mxGeometry>
@@ -141,7 +141,7 @@
         <mxCell id="_SFTHddvR5x8rRERTsNR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.378;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=open;startFill=0;" edge="1" parent="1" source="_SFTHddvR5x8rRERTsNR-9" target="_SFTHddvR5x8rRERTsNR-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_SFTHddvR5x8rRERTsNR-38" value="startSupplying [B1.SoC &amp;gt; B0]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;labelBackgroundColor=none;" vertex="1" connectable="0" parent="_SFTHddvR5x8rRERTsNR-37">
+        <mxCell id="_SFTHddvR5x8rRERTsNR-38" value="startSupplying [B1.SoC &amp;gt; B2.SoC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=270;labelBackgroundColor=none;" vertex="1" connectable="0" parent="_SFTHddvR5x8rRERTsNR-37">
           <mxGeometry x="0.3287" y="-1" relative="1" as="geometry">
             <mxPoint x="-10" y="8" as="offset" />
           </mxGeometry>
