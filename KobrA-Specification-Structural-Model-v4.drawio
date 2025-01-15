@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PDG_EILKComIOrF9YrvU-1" value="&lt;b&gt;PowerSupplying Specification Structural Model&lt;/b&gt;" style="text;fontSize=16;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="390" height="30" as="geometry" />
+        <mxCell id="PDG_EILKComIOrF9YrvU-1" value="&lt;b&gt;PowerSupplyingPart Specification Structural Model&lt;/b&gt;" style="text;fontSize=16;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PDG_EILKComIOrF9YrvU-2" value="" style="dashed=0;shape=line;strokeWidth=2;noLabel=1;strokeColor=#0C8CF2;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="40" y="65" width="346" height="10" as="geometry" />
