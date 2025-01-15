@@ -125,7 +125,7 @@
         <mxCell id="_SFTHddvR5x8rRERTsNR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=open;endFill=0;" edge="1" parent="1" source="_SFTHddvR5x8rRERTsNR-10" target="_SFTHddvR5x8rRERTsNR-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_SFTHddvR5x8rRERTsNR-34" value="&lt;span style=&quot;&quot;&gt;startCharging [B1.SoC = B1.MaxCharge&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;and B2.SoC &amp;lt; B2.SoC.MaxCharge]&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];rotation=270;labelBackgroundColor=none;" vertex="1" connectable="0" parent="_SFTHddvR5x8rRERTsNR-33">
+        <mxCell id="_SFTHddvR5x8rRERTsNR-34" value="&lt;span style=&quot;&quot;&gt;startCharging [B1.SoC = B1.MaxCharge&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;and B2.SoC &amp;lt; B2.MaxCharge]&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];rotation=270;labelBackgroundColor=none;" vertex="1" connectable="0" parent="_SFTHddvR5x8rRERTsNR-33">
           <mxGeometry x="-0.0181" y="-1" relative="1" as="geometry">
             <mxPoint x="-16" y="108" as="offset" />
           </mxGeometry>
