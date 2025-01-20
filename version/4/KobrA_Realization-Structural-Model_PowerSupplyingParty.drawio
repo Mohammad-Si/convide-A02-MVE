@@ -1,12 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="OIZB1IzfGnqWNxISPh1V">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="srjRJGSzEDuy8m7RVJVH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;endSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="srjRJGSzEDuy8m7RVJVH-7" target="srjRJGSzEDuy8m7RVJVH-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335.9999999999998" y="535" as="sourcePoint" />
+            <mxPoint x="440" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="srjRJGSzEDuy8m7RVJVH-2" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="srjRJGSzEDuy8m7RVJVH-1">
+          <mxGeometry x="0.7313" y="-1" relative="1" as="geometry">
+            <mxPoint x="4" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="srjRJGSzEDuy8m7RVJVH-3" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="srjRJGSzEDuy8m7RVJVH-1">
+          <mxGeometry x="-0.575" relative="1" as="geometry">
+            <mxPoint x="-8" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="srjRJGSzEDuy8m7RVJVH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="srjRJGSzEDuy8m7RVJVH-5" target="srjRJGSzEDuy8m7RVJVH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="595" y="400" />
+              <mxPoint x="415" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="srjRJGSzEDuy8m7RVJVH-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BatteryPack&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;CheckSoC()&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="423.75" width="170" height="76.25" as="geometry" />
+        </mxCell>
+        <mxCell id="srjRJGSzEDuy8m7RVJVH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="srjRJGSzEDuy8m7RVJVH-7" target="srjRJGSzEDuy8m7RVJVH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="232" y="400" />
+              <mxPoint x="415" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="srjRJGSzEDuy8m7RVJVH-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Battery&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;border-style: solid;&quot; size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;getSoC(): Float&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="146.5" y="422.19" width="170" height="79.37" as="geometry" />
+        </mxCell>
+        <mxCell id="srjRJGSzEDuy8m7RVJVH-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;PowerSupplyingPart&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;safetyLevel&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Enum&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;rawMaterial&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;String&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;maxCharge&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Float&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;SoC: Float&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;startSupplying()&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;stopSupplying&lt;/span&gt;()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: center; text-wrap-mode: nowrap; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; text-wrap-mode: wrap;&quot;&gt;startCharging&lt;/span&gt;()&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: rgb(255, 255, 255);&quot;&gt;stopCharging&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(251, 251, 251), rgb(21, 21, 21)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;()&lt;/span&gt;)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="210" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="srjRJGSzEDuy8m7RVJVH-9" value="&lt;b&gt;PowerSupplyingPart Realization Structural Model&lt;/b&gt;" style="text;fontSize=16;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="srjRJGSzEDuy8m7RVJVH-10" value="" style="dashed=0;shape=line;strokeWidth=2;noLabel=1;strokeColor=#0C8CF2;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="65" width="380" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
 </mxfile>
-
