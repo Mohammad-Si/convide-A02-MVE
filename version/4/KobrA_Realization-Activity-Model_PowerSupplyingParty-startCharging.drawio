@@ -1,9 +1,162 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="OfMsy_-nwx7n2B3ybW-p">
-    <mxGraphModel>
+    <mxGraphModel dx="1289" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-1" value="&lt;b&gt;PowerSupplyingPart Realization startCharging Activity Model&lt;/b&gt;" style="text;fontSize=16;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-2" value="" style="dashed=0;shape=line;strokeWidth=2;noLabel=1;strokeColor=#0C8CF2;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="65" width="480" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-3" value="startCharging" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="65" y="130" width="720" height="630" as="geometry">
+            <mxRectangle x="45" y="640" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-4" value=":BatteryPack" style="swimlane;html=1;startSize=20;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-3">
+          <mxGeometry y="20" width="410" height="610" as="geometry">
+            <mxRectangle y="20" width="40" height="420" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="Job2l-g_5V0R8sAIiQRT-4" source="Job2l-g_5V0R8sAIiQRT-7" target="Job2l-g_5V0R8sAIiQRT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-6" value="B1-charging?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-5">
+          <mxGeometry x="-0.2766" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-7" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-4">
+          <mxGeometry x="188.5" y="50" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="Job2l-g_5V0R8sAIiQRT-4" source="Job2l-g_5V0R8sAIiQRT-10" target="Job2l-g_5V0R8sAIiQRT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-9" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-8">
+          <mxGeometry x="-0.6626" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-4">
+          <mxGeometry x="180" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="Job2l-g_5V0R8sAIiQRT-4" source="Job2l-g_5V0R8sAIiQRT-14" target="Job2l-g_5V0R8sAIiQRT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-12" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-11">
+          <mxGeometry x="-0.45" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-13" value="B2-charging?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-11">
+          <mxGeometry x="0.35" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-4">
+          <mxGeometry x="180" y="220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Job2l-g_5V0R8sAIiQRT-4" source="Job2l-g_5V0R8sAIiQRT-17" target="Job2l-g_5V0R8sAIiQRT-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-16" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-15">
+          <mxGeometry x="-0.6626" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-17" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-4">
+          <mxGeometry x="180" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-18" value="stay in B1-Charging&lt;div&gt;&amp;nbsp;state&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-4">
+          <mxGeometry x="17.5" y="210" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Job2l-g_5V0R8sAIiQRT-4" source="Job2l-g_5V0R8sAIiQRT-21" target="Job2l-g_5V0R8sAIiQRT-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-20" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-19">
+          <mxGeometry x="-0.4667" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-4">
+          <mxGeometry x="180" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-22" value="stay in B2-Charging&lt;div&gt;&amp;nbsp;state&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-4">
+          <mxGeometry x="17.5" y="435" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-23" value="stay in the current&lt;div&gt;&amp;nbsp;state&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-4">
+          <mxGeometry x="133.75" y="550" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-24" value="B1:Battery" style="swimlane;html=1;startSize=20;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-3">
+          <mxGeometry x="410" y="20" width="160" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-25" value="getSoC" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-24">
+          <mxGeometry x="30" y="125" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-26" value="startCharging" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-24">
+          <mxGeometry x="30" y="225" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-27" value="B2:Battery" style="swimlane;html=1;startSize=20;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-3">
+          <mxGeometry x="570" y="20" width="150" height="610" as="geometry">
+            <mxRectangle x="570" y="20" width="40" height="1720" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-28" value="getSoC" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-27">
+          <mxGeometry x="28.100000000000023" y="345" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-29" value="startCharging" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="Job2l-g_5V0R8sAIiQRT-27">
+          <mxGeometry x="35" y="445" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="Job2l-g_5V0R8sAIiQRT-3" source="Job2l-g_5V0R8sAIiQRT-10" target="Job2l-g_5V0R8sAIiQRT-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-31" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-30">
+          <mxGeometry x="-0.7606" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=1;" edge="1" parent="Job2l-g_5V0R8sAIiQRT-3" source="Job2l-g_5V0R8sAIiQRT-25" target="Job2l-g_5V0R8sAIiQRT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-33" value="B1.SoC &amp;lt; B1.MaxCharge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-32">
+          <mxGeometry x="0.913" relative="1" as="geometry">
+            <mxPoint y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="Job2l-g_5V0R8sAIiQRT-3" source="Job2l-g_5V0R8sAIiQRT-14" target="Job2l-g_5V0R8sAIiQRT-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-35" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-34">
+          <mxGeometry x="-0.7879" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="Job2l-g_5V0R8sAIiQRT-3" source="Job2l-g_5V0R8sAIiQRT-17" target="Job2l-g_5V0R8sAIiQRT-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-37" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-36">
+          <mxGeometry x="-0.8554" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=block;endFill=1;" edge="1" parent="Job2l-g_5V0R8sAIiQRT-3" source="Job2l-g_5V0R8sAIiQRT-28" target="Job2l-g_5V0R8sAIiQRT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-39" value="B2.SoC &amp;lt; B2.MaxCharge" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-38">
+          <mxGeometry x="0.9168" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Job2l-g_5V0R8sAIiQRT-3" source="Job2l-g_5V0R8sAIiQRT-21" target="Job2l-g_5V0R8sAIiQRT-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Job2l-g_5V0R8sAIiQRT-41" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Job2l-g_5V0R8sAIiQRT-40">
+          <mxGeometry x="-0.8788" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
