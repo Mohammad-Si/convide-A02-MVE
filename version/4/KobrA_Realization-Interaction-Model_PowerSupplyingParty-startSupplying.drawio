@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="mjTT1x47Fcei4zEt5tH7">
-    <mxGraphModel dx="1074" dy="575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1074" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,11 +85,11 @@
             <mxPoint x="677" y="238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pkoIFwFUGQ6euqZauWuU-45" value="&lt;b&gt;PowerSupplyingPart Realization Interaction Model&lt;/b&gt;" style="text;fontSize=16;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="388" height="30" as="geometry" />
+        <mxCell id="pkoIFwFUGQ6euqZauWuU-45" value="&lt;b&gt;PowerSupplyingPart Realization startSupplying Interaction Model&lt;/b&gt;" style="text;fontSize=16;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pkoIFwFUGQ6euqZauWuU-46" value="" style="dashed=0;shape=line;strokeWidth=2;noLabel=1;strokeColor=#0C8CF2;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="40" y="65" width="385" height="10" as="geometry" />
+          <mxGeometry x="40" y="65" width="500" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pkoIFwFUGQ6euqZauWuU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.022;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.879;exitY=0.012;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=block;endFill=1;" parent="1" target="pkoIFwFUGQ6euqZauWuU-7" edge="1">
           <mxGeometry relative="1" as="geometry">
