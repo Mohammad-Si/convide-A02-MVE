@@ -1,9 +1,110 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="8s57VeNnh-M7USMkd0N6">
-    <mxGraphModel>
+    <mxGraphModel dx="1004" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="65" y="169" width="720" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-2" value="B1::Battery" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-1">
+          <mxGeometry x="330" y="37.67" width="100" height="632.33" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-2">
+          <mxGeometry x="45" y="230" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-4" value="BatteryPack" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-1">
+          <mxGeometry x="100" y="37.67" width="100" height="632.33" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-4">
+          <mxGeometry x="45" y="84" width="10" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-42" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#B3B3B3;exitX=0.001;exitY=0.476;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.758;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="BwLCPV3X6KeAN_wLTfjs-4" target="BwLCPV3X6KeAN_wLTfjs-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="463.33" as="sourcePoint" />
+            <mxPoint x="513" y="463.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-6" value="B2:Battery" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-1">
+          <mxGeometry x="565" y="37.67" width="100" height="632.33" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-10" value="stopSupplying" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=default;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-1">
+          <mxGeometry width="720" height="705" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.056;entryY=0.338;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;startArrow=none;startFill=0;" edge="1" parent="BwLCPV3X6KeAN_wLTfjs-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155.56" y="279.09232558139536" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="374.99999999999994" y="279.03139534883724" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-13" value="startSuppllying()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="BwLCPV3X6KeAN_wLTfjs-12">
+          <mxGeometry x="-0.0214" relative="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-15" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#FFFFFF;exitX=-0.002;exitY=0.267;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.267;entryDx=0;entryDy=0;entryPerimeter=0;comic=0;" edge="1" parent="BwLCPV3X6KeAN_wLTfjs-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="55.00000000000006" y="249.00300000000001" as="sourcePoint" />
+            <mxPoint x="657.3999999999997" y="249.00300000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-17" value="BP is in Supplying state" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-10">
+          <mxGeometry x="185" y="165" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.044;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="BwLCPV3X6KeAN_wLTfjs-10" target="BwLCPV3X6KeAN_wLTfjs-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="131" as="sourcePoint" />
+            <mxPoint x="125" y="131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-28" value="stopSupplying" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BwLCPV3X6KeAN_wLTfjs-27">
+          <mxGeometry x="-0.119" y="1" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-30" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=50;height=20;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-10">
+          <mxGeometry x="60" y="161" width="600" height="449" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-37" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=50;height=20;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-10">
+          <mxGeometry x="85" y="211" width="555" height="229" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-38" value="B1 is in Supplying state" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-10">
+          <mxGeometry x="185" y="221" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-10">
+          <mxGeometry x="610" y="367" width="10" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-41" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;strokeColor=#B3B3B3;exitX=0.001;exitY=0.476;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.999;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="BwLCPV3X6KeAN_wLTfjs-10" source="BwLCPV3X6KeAN_wLTfjs-37" target="BwLCPV3X6KeAN_wLTfjs-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="491" as="sourcePoint" />
+            <mxPoint x="475" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-43" value="B2 is in Supplying state" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="BwLCPV3X6KeAN_wLTfjs-10">
+          <mxGeometry x="184" y="337" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.058;entryY=0.794;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=1;startArrow=none;startFill=0;exitX=0.976;exitY=0.968;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="BwLCPV3X6KeAN_wLTfjs-1" source="BwLCPV3X6KeAN_wLTfjs-5" target="BwLCPV3X6KeAN_wLTfjs-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="157.78" y="321.0623255813954" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="377.21999999999997" y="321.00139534883726" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-40" value="startSuppllying()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="BwLCPV3X6KeAN_wLTfjs-39">
+          <mxGeometry x="-0.0214" relative="1" as="geometry">
+            <mxPoint x="88" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-21" value="&lt;b&gt;batteryPack Realization Interaction Model&lt;/b&gt;" style="text;fontSize=16;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-22" value="" style="dashed=0;shape=line;strokeWidth=2;noLabel=1;strokeColor=#0C8CF2;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="40" y="65" width="330" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="BwLCPV3X6KeAN_wLTfjs-44" value="BP is in Idle or Charging state" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="250" y="674" width="165" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
